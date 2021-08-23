@@ -11,6 +11,7 @@ https://github.com/google/mediapipe/blob/master/mediapipe/docs/install.md#instal
 - merge the mediapipe folder with the installation folder and choose to replace the existing files when asked.
 
 HOW TO GENERATE THE DATASET:
+
 -cd into the installation folder:
 $cd mediapipe
 
