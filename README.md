@@ -1,5 +1,4 @@
-# pose
-Real-time Hand Pose Recognition and Dataset Generation With Mediapipe
+# Real-time Hand Pose Recognition and Dataset Generation With Mediapipe
 
 NOTE: 
 The GPU was used to predict and generate the dataset because it is much faster, the CPU version was almost unusable, a GPU is needed.
